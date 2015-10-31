@@ -74,3 +74,8 @@ ump45
 usp_silencer
 xm1014
 ```
+### Cvar
+
+#### `buyzone_disable` "1" - Buyzone Remove/Disable 
+* 1 - Disable/Remove 
+* 0 - Enable/Not Remove .
