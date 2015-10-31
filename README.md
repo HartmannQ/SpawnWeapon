@@ -3,7 +3,7 @@
 <img src="http://i.imgur.com/2Q2eSwM.jpg"></img>
 ##Description
 
-#####This plugin allows you to remove default weapons and give players weapons that you want.
+####This plugin allows you to remove default weapons and give players weapons that you want.
 
 ###Features:
 
@@ -13,12 +13,12 @@
               
 ##Config File
 
-#####Put `spawn_weapon.ini` in sourcemod folder. Reads from it, if there is no map config (`map.spawn_weapon.ini`). If you want a separate file for example for nuke:
+####Put `spawn_weapon.ini` in sourcemod folder. Reads from it, if there is no map config (`map.spawn_weapon.ini`). If you want a separate file for example for nuke:
  
               * Create file nuke.spawn_weapon.ini, and in that map will be read from the file.
 
-####Write a weapon that you want to give on spawn.
-#####Example:
+###Write a weapon that you want to give on spawn.
+####Example:
 
               * M4A4 for Counter-Terrorists Team
               * AK-47 (CV-47) for Terrorists Team
