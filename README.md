@@ -31,44 +31,46 @@ TT ak47
 CT deagle
 TT deagle
 ```
-| Weapon Names List  | 
-| ------------- | 
-| ak47 |
-|aug|
-|bizon|
-|cz75a|
-|deagle|
-|decoy |
-|elite |
-|famas |
-|fiveseven |
-|flashbang|
-|g3sg1|
-|galilar|
-|glock |
-|hegrenade|
-|hkp2000 |
-|incgrenade|
-|knife|
-|m249|
-|m4a1|
-|m4a1_silencer|
-|mac10|
-|mag7|
-|molotov |
-|mp7|
-|mp9|
-|negev| 
-|nova|
-|p250|
-|p90|
-|sawedoff| 
-|scar20|
-|sg556| 
-|smokegrenade| 
-|ssg08| 
-|taser| 
-|tec9|
-|ump45|
-|usp_silencer|
-|xm1014|
+###Weapon Names List   
+
+```ruby
+ak47 
+aug
+bizon
+cz75a
+deagle
+decoy 
+elite 
+famas 
+fiveseven 
+flashbang
+g3sg1
+galilar
+glock 
+hegrenade
+hkp2000 
+incgrenade
+knife
+m249
+m4a1
+m4a1_silencer
+mac10
+mag7
+molotov 
+mp7
+mp9
+negev 
+nova
+p250
+p90
+sawedoff 
+scar20
+sg556 
+smokegrenade 
+ssg08 
+taser 
+tec9 
+ump45
+usp_silencer
+xm1014
+```
